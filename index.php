@@ -141,7 +141,7 @@ require_once __DIR__ . '/includes/header.php';
             <article class="project-card reveal-on-scroll">
                 <div class="project-video-wrapper">
                     <video controls preload="metadata" poster="assets/images/agrismart-poster.jpg">
-                        <source src="assets/videos/agrismart-demo.mp4" type="video/mp4">
+                        <source src="assets/videos/AgriSmart.mp4" type="video/mp4">
                         Your browser does not support the video tag.
                     </video>
                 </div>
