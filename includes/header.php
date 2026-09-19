@@ -25,7 +25,7 @@
 <canvas id="bgCanvas" class="bg-canvas" aria-hidden="true"></canvas>
 <header class="site-header">
     <nav class="navbar container">
-        <a href="#hero" class="logo">Lloyd<span>.</span></a>
+        <a href="#hero" class="logo">Lloyd Agyapong<span>.</span></a>
         <button class="nav-toggle" id="navToggle" aria-label="Toggle navigation" aria-expanded="false">☰</button>
         <ul class="nav-links" id="navLinks">
             <li><a href="#about">About</a></li>

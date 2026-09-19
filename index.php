@@ -140,7 +140,7 @@ require_once __DIR__ . '/includes/header.php';
             <!-- Project 1 -->
             <article class="project-card reveal-on-scroll">
                 <div class="project-video-wrapper">
-                    <video controls preload="metadata" poster="assets/images/agrismart-poster.jpg">
+                    <video controls preload="metadata" poster="assets/images/agrismart-poster.png">
                         <source src="assets/videos/AgriSmart.mp4" type="video/mp4">
                         Your browser does not support the video tag.
                     </video>
@@ -154,7 +154,7 @@ require_once __DIR__ . '/includes/header.php';
                         <li>Coordinated task delegation, code integration, and testing across the team to deliver a working system within the course deadline.</li>
                     </ul>
                     <div class="project-links">
-                        <a href="https://github.com/Odenkyem-1" target="_blank" rel="noopener noreferrer" class="btn-secondary">View Project on GitHub</a>
+                        <a href="https://github.com/Odenkyem-1/AgriSmart-Ghana.git" target="_blank" rel="noopener noreferrer" class="btn-secondary">View Project on GitHub</a>
                     </div>
                 </div>
             </article>
@@ -199,7 +199,7 @@ require_once __DIR__ . '/includes/header.php';
                         <li>Bespoke embedded WYSIWYG text editor built for streamlined content publishing.</li>
                     </ul>
                     <div class="project-links">
-                        <a href="https://github.com/Odenkyem-1" target="_blank" rel="noopener noreferrer" class="btn-secondary">View Project on GitHub</a>
+                        <a href="https://bigentertainmentart.com/" target="_blank" rel="noopener noreferrer" class="btn-secondary">View Project</a>
                     </div>
                 </div>
             </article>
